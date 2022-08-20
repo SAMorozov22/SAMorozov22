@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samorozov22/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" height="30" width="40" /></a>
-<a href="https://t.me/SAMorozov22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://t.me/SAMorozov22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samorozov22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://t.me/SAMorozov22" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" alt="https://t.me/SAMorozov22" /></a>
 
 </p>
 
