@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morozov Sergey</h1>
-<h3 align="center">Fullastack developer from Saint-Petersburg</h3>
+<h3 align="center">Fullstack developer from Saint-Petersburg</h3>
 
 - 💬 Ask me about **JS, Node.js, Express, React**
 
